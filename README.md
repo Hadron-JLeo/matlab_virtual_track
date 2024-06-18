@@ -26,7 +26,3 @@
 - Sensor challenges (weathered lane markings, occluded signage, overpasses, foliage)
 
 - Unprotected turns
-
-
-
-## License
