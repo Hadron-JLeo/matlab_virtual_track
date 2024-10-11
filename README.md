@@ -27,9 +27,16 @@
 
 - Unprotected turns
 
-### Update 1: 11/10/2024
+## Update 1: 11/10/2024
 
 I decided to base the track on a road I would often encounter in lower-Bavaria, Germany.
+Its name is Oberglasschleife just shortly before the city of my University, Deggendorf.
 
-However, I will be adding signs from other countries and other traffic-control items
+The reason I chose it: You would drive sharply down-hill with many hard-rights and lefts, which caused many accidents in the past.
 
+However, I will be adding signs from other countries and other traffic-control items to maximally confuse the Virtual Driving AI.
+![image](https://github.com/user-attachments/assets/63b677ae-a5da-44c9-9f04-cb3bb5f9cfa2)
+
+![image](https://github.com/user-attachments/assets/0dee1660-a9f2-4889-94fa-276c942c913e)
+
+![image](https://github.com/user-attachments/assets/65426b2c-d5e0-4dbb-9fa3-9c4167182f75)
