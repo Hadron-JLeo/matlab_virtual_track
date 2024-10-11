@@ -40,3 +40,11 @@ However, I will be adding signs from other countries and other traffic-control i
 ![image](https://github.com/user-attachments/assets/0dee1660-a9f2-4889-94fa-276c942c913e)
 
 ![image](https://github.com/user-attachments/assets/65426b2c-d5e0-4dbb-9fa3-9c4167182f75)
+
+Hard-Rights/Lefts from memory:
+![image](https://github.com/user-attachments/assets/0717a325-5099-43ac-8de7-56d2abf8d2c9)
+
+Grey: Guard Rails
+Brown: Mountain
+
+Keep in mind the curves had to be drivin within a massive decline/incline!
