@@ -26,3 +26,10 @@
 - Sensor challenges (weathered lane markings, occluded signage, overpasses, foliage)
 
 - Unprotected turns
+
+### Update 1: 11/10/2024
+
+I decided to base the track on a road I would often encounter in lower-Bavaria, Germany.
+
+However, I will be adding signs from other countries and other traffic-control items
+
