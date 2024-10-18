@@ -48,3 +48,13 @@ Grey: Guard Rails
 Brown: Mountain
 
 Keep in mind the curves had to be drivin within a massive decline/incline!
+
+## Update 2: 18/10/2024
+![image](https://github.com/user-attachments/assets/f84aeafb-7014-4b45-89be-314de9a8fbc3)
+
+
+I am having a few issues deciding the right Height for the roads, but I think it will be solved with some more focus.
+The beginning and the cross-section will likely be connected by the end (unlike the real city) just so the driver will have a functioning loop.
+The entrance to the 'city' has been blocked off by cones. I have also added other vehicles to the road.
+
+![image](https://github.com/user-attachments/assets/837ad589-83c7-4a69-acf9-de11d412d41c)
