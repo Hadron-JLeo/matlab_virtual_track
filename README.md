@@ -64,3 +64,5 @@ The entrance to the 'city' has been blocked off by cones. I have also added othe
 Working with Blender and BlenderGIS Addon to generate a terrain straight from Google Maps
 
 ![image](https://github.com/user-attachments/assets/ae88d60e-5ab3-4b16-9528-fa1874b0528a)
+
+A link to the Addon repository can be found here: https://github.com/domlysz/BlenderGIS?tab=readme-ov-file
