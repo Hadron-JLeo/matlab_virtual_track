@@ -68,3 +68,5 @@ Working with Blender and BlenderGIS Addon to generate a terrain straight from Go
 A link to the Addon repository can be found here: https://github.com/domlysz/BlenderGIS?tab=readme-ov-file
 
 ![image](https://github.com/user-attachments/assets/ebf24f0c-8f2a-4985-9d7f-3ea16420da70)
+
+![image](https://github.com/user-attachments/assets/4c051016-acca-4c16-b21c-732e3d9bf398)
