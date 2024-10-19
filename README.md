@@ -58,3 +58,9 @@ The beginning and the cross-section will likely be connected by the end (unlike 
 The entrance to the 'city' has been blocked off by cones. I have also added other vehicles to the road.
 
 ![image](https://github.com/user-attachments/assets/837ad589-83c7-4a69-acf9-de11d412d41c)
+
+## Update 3: 19/10/24
+
+Working with Blender and BlenderGIS Addon to generate a terrain straight from Google Maps
+
+![image](https://github.com/user-attachments/assets/ae88d60e-5ab3-4b16-9528-fa1874b0528a)
