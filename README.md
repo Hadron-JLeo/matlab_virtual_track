@@ -79,28 +79,20 @@ I imported the exported .fbx file from Blender into RoadRunner and adjusted the 
 
 I am working on complex street signs for the simulated environment:
 
-1. Middle Eastern Stop Sign in Arabic
-![sign_arabic_stop](https://github.com/user-attachments/assets/e83a9667-9610-45f4-907d-db081e251094) { width: 200px; }
+- Middle Eastern Stop Sign in Arabic
 
+- USA: Do not enter
 
-2. USA: Do not enter
-![sign_do_not_enter_usa](https://github.com/user-attachments/assets/fa474983-259f-4715-b30b-54fabffd690b)
+- USA: Dip warning
 
+- Germany: Pedestrians forbidden
 
-3. USA: Dip warning
-![sign_dip_usa](https://github.com/user-attachments/assets/079b97d3-81f9-4f1f-820c-2e004b4e0171)
+- Germany: Minimum Speed 30
 
-4. Germany: Pedestrians forbidden
-![sign_fusgaenger_verbot_de](https://github.com/user-attachments/assets/4c3f1bbd-726d-4b51-9fde-f2e5f210eddf)
+- Germany: Entrance forbidden
 
-5. Germany: Minimum Speed 30
-![sign_minimum_speed_de](https://github.com/user-attachments/assets/9863a2d3-7811-4ebe-adf8-039ce3dad215)
+- Germany: Give Way
 
-6. Germany: Entrance forbidden
-![sign_einfahrt_verbot_dde](https://github.com/user-attachments/assets/0eb720be-ea2a-4af7-92eb-b3af05da427b)
+- Random: Warning, cow abduction!
+![image](https://github.com/user-attachments/assets/bc902f90-d194-40af-ae71-48433af6fbe5)
 
-7. Germany: Give Way
-![sign_vorfahrt_gewahren_de](https://github.com/user-attachments/assets/cac76736-b378-40d9-a301-951a7a72360b)
-
-8. Random: Warning, cow abduction!
-![sign_abducted_cow](https://github.com/user-attachments/assets/49b332b9-1e6a-499f-8373-47e7a68ce6c3)
