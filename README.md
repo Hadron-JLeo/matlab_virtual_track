@@ -80,7 +80,7 @@ I imported the exported .fbx file from Blender into RoadRunner and adjusted the 
 I am working on complex street signs for the simulated environment:
 
 1. Middle Eastern Stop Sign in Arabic
-![sign_arabic_stop](https://github.com/user-attachments/assets/e83a9667-9610-45f4-907d-db081e251094)
+![sign_arabic_stop](https://github.com/user-attachments/assets/e83a9667-9610-45f4-907d-db081e251094) { width: 200px; }
 
 
 2. USA: Do not enter
