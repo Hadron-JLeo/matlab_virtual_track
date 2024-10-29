@@ -101,3 +101,15 @@ I am working on complex street signs for the simulated environment:
 ![image](https://github.com/user-attachments/assets/87c2cfcf-895a-41b8-b432-d0a8e4ca8c0f)
 
 Signs have been added. My hope is to confuse the AI algorithms, as is the prime directive for testing: "finding problems"
+
+
+## Update 7: 29/10/24 - Future Ideas
+
+The project is being submitted early, but here are some possible update ideas I had:
+
+- A roundabout connecting many of the streets in the scene
+- Some buildings for realism/vision
+- More precise elevation for roads
+- Side/dirt roads leading through the (idealised) forests
+- A parking space
+- A traffic light
