@@ -96,3 +96,7 @@ I am working on complex street signs for the simulated environment:
 - Random: Warning, cow abduction!
 ![image](https://github.com/user-attachments/assets/bc902f90-d194-40af-ae71-48433af6fbe5)
 
+## Update 6: 29/10/24
+
+![image](https://github.com/user-attachments/assets/87c2cfcf-895a-41b8-b432-d0a8e4ca8c0f)
+
