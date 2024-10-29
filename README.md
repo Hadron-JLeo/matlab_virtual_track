@@ -49,7 +49,7 @@ Brown: Mountain
 
 Keep in mind the curves had to be drivin within a massive decline/incline!
 
-## Update 2: 18/10/2024
+## Update 2: 18/10/2024 NOTE: this part has been completely redone after update 5
 ![image](https://github.com/user-attachments/assets/f84aeafb-7014-4b45-89be-314de9a8fbc3)
 
 
