@@ -100,3 +100,4 @@ I am working on complex street signs for the simulated environment:
 
 ![image](https://github.com/user-attachments/assets/87c2cfcf-895a-41b8-b432-d0a8e4ca8c0f)
 
+Signs have been added. My hope is to confuse the AI algorithms, as is the prime directive for testing: "finding problems"
