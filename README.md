@@ -113,3 +113,8 @@ The project is being submitted early, but here are some possible update ideas I 
 - Side/dirt roads leading through the (idealised) forests
 - A parking space
 - A traffic light
+
+
+![image](https://github.com/user-attachments/assets/1ca118cb-ebd4-45d1-89cf-cddd6ebf81b8)
+![image](https://github.com/user-attachments/assets/fc622122-ad57-4e8c-b6be-c16567ab23e0)
+
